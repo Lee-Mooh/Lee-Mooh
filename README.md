@@ -1,7 +1,5 @@
 
-- 🔭 霍格沃兹魔法学院  29届
-- 🌱 learning CS 
-- 🤔 FE
-- 💬  isfp
-
+*Hogwarts School Class of 29*  
+*Learning CS | Focusing on Front-End Development*  
+*Skills:* `JavaScript` `C`
   
